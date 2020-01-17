@@ -1,2 +1,2 @@
 # control_repo
-Learning Puppet 
+Learning Puppet from Linked Learning
